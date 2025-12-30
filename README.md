@@ -65,4 +65,4 @@ The next step for the engineer is to choose the constant $k$, which parameterize
 The system $\dot x =−cx$ is not special because it models the physics of a real plant, but because it represents the simplest dynamical system whose stability can be globally certified using a quadratic Lyapunov function. By postulating this system as the desired closed-loop behavior, we explicitly define what “good behavior” means, independently of the underlying plant dynamics.
 
 So, this was an “empirical” way to derive a control law by postulating desired dynamics. A mathematically rigorous derivation — showing why the control law should be
-$u=−kx$, how to compute the optimal $k$ for a quadratic cost function, and how this relates to reinforcement learning—can be found in amazing article of Frank Lews and co. https://share.google/BA4FcEI1qlWdVwUdj.
+$u=−kx$, how to compute the optimal $k$ for a quadratic cost function, and how this relates to reinforcement learning — can be found in amazing article of Frank Lewis and co. https://share.google/BA4FcEI1qlWdVwUdj.
