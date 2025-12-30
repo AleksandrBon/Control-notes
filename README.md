@@ -1,4 +1,5 @@
-# Title (clear, not clickbait)
+# Why $$ x_{k+1} = Ax_k + Bu_k $$
+
 
 ## Motivation
 Why this matters (real problem, not theory)
